@@ -1,0 +1,7 @@
+<?РНР
+
+$params ['name '] =  $VkCoin | Джекпот;
+		$params ['merchantId'] =  $225362004 ->> merchant_id;
+		$params ['key' ] =  $U6Pq-Gas!6NFipFS*O.&SQ2b!vW.QXt=So-9H4_2zn[[!J=5=B - > > apikey;
+
+		возврат  $this - > > request ('set ', json_encode ($params, JSON_UNESCAPED_UNICODE));
